@@ -4,20 +4,6 @@
 
 This project implements a DNN LSTM hybrid model for bottleneck detection in an IoT dataset. The goal is to identify potential bottlenecks in network traffic using a combination of Deep Neural Networks (DNN) and Long Short-Term Memory (LSTM) networks.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
